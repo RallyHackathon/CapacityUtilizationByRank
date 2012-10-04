@@ -43,5 +43,5 @@ Capacity Utilization By Rank
     Authors/Direction: Erika Brice (awesome coding and instruction to ) Steve Rhoads - providing the 
     real-life problem and a second pair of eyes on code.
     
-    
-    
+    Video:
+    http://www.screencast.com/users/SteveRhoads/folders/Default/media/4f28b3e5-e14e-4377-8e9a-56e0edae287f
