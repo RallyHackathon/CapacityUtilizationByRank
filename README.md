@@ -1,13 +1,6 @@
 Since this app was created as part of the hackathon it is not guaranteed to work.    
 
-To launch chrome with cross-origin checks and file access checks disabled, on windows it will look something like:
-
-    %LOCALAPPDATA%\Google\Chrome\Application\chrome.exe --disable-web-security --allow-file-access-from-files --allow-cross-origin-auth-prompt
-
-On mac:
-
-    cd /Applications
-    open Google\ Chrome.app --args --disable-web-security --allow-file-access-from-files --allow-cross-origin-auth-prompt
+![Screenshot](https://raw.github.com/RallyHackathon/CapacityUtilizationByRank/master/deploy/Screenshot.png)
 
 Capacity Utilization By Rank
 
@@ -43,5 +36,4 @@ Capacity Utilization By Rank
     Authors/Direction: Erika Brice (awesome coding and instruction to ) Steve Rhoads - providing the 
     real-life problem and a second pair of eyes on code.
     
-    Video:
-    http://www.screencast.com/users/SteveRhoads/folders/Default/media/4f28b3e5-e14e-4377-8e9a-56e0edae287f
+Video on [Screencast](http://www.screencast.com/users/SteveRhoads/folders/Default/media/4f28b3e5-e14e-4377-8e9a-56e0edae287f)
